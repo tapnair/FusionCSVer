@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../FusionCSVer/.idea/FusionHoler.iml" filepath="$PROJECT_DIR$/../FusionCSVer/.idea/FusionHoler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FusionCSVer/.idea/FusionCSVer.iml" filepath="$PROJECT_DIR$/../FusionCSVer/.idea/FusionCSVer.iml" />
     </modules>
   </component>
 </project>
